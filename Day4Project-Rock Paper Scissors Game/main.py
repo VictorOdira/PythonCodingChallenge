@@ -25,6 +25,10 @@ scissors = '''
       (____)
 ---.__(___)
 '''
+# Rules of the Game 
+# Rock wins against Scissors
+# Paper wins against Rock
+# Scissors win against Paper
 game_images = [rock, paper, scissors]
 game_is_on = True
 while game_is_on:
